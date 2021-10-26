@@ -1,0 +1,9 @@
+When ever you are creating a new store add the respective reduces and effects to the main store module.
+
+the main store module is imported inside the app module and the and yoppu will be seeing the new store being created in the redux tool.
+
+sctritly follow trhe entity patern for every store and the
+the optimistic rendering is a must to avoid firing unwanted HTTP requests.
+
+
+
